@@ -1,3 +1,3 @@
 # justWah
 
-This repo is created to learn Fork features in GitHub
+This repo is created to learn Fork features in Git
